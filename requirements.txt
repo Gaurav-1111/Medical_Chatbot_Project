@@ -1,4 +1,4 @@
-langchain.embeddings
+sentence-transformers
 langchain
 flask
 pypdf
