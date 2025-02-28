@@ -1,4 +1,4 @@
-lanchain.embeddings
+langchain.embeddings
 langchain
 flask
 pypdf
